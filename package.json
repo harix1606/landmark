@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
   "name": "landmark",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +11,8 @@
     "react-scripts": "3.2.0",
     "react-simple-chatbot": "^0.6.1",
     "styled-components": "^4.4.1"
-=======
+},
+
   "name": "landmark-app",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +20,6 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
->>>>>>> 572169acdc19422e31cc73ff51e539970a57cee4
   },
   "scripts": {
     "start": "react-scripts start",
